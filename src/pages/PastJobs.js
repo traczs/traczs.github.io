@@ -15,7 +15,7 @@ function PastJobs(props) {
             
             <Parallax bgImage={tech} strength={500}>
                 <div style={{height:'100vh'}} >
-                    <div className="parallax-inline-text" style={{fontSize:'3vw'}}>
+                    <div className="parallax-inline-text" style={{fontSize:'1vw'}}>
                         <h2><b>Inbox Marketer</b></h2>
                         <h3>Software Developer and Helpdesk</h3>
                         
@@ -37,7 +37,7 @@ function PastJobs(props) {
 
             <Parallax bgImage={rogers} blur={{min: -1, max: 10}}>
                 <div style={{height:'100vh'}} >
-                    <div className="parallax-inline-text" style={{fontSize:'3vw'}}>
+                    <div className="parallax-inline-text" style={{fontSize:'1vw'}}>
                         <h2><b>Rogers Communications</b></h2>
                         <h3>CloudOps</h3>
                         
@@ -55,7 +55,7 @@ function PastJobs(props) {
 
             <Parallax bgImage={camis} strength={-300}>
                 <div style={{height:'100vh'}} >
-                    <div className="parallax-inline-text" style={{fontSize:'2vw'}}>
+                    <div className="parallax-inline-text" style={{fontSize:'1vw'}}>
                         <h2><b>Camis Inc</b></h2>
                         <h3>DevOps / SDET</h3>
                         
