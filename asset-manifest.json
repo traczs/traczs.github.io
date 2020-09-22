@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/traczs.github.io/static/css/main.0643ec6a.chunk.css",
-    "main.js": "/traczs.github.io/static/js/main.efdda2ea.chunk.js",
-    "main.js.map": "/traczs.github.io/static/js/main.efdda2ea.chunk.js.map",
+    "main.js": "/traczs.github.io/static/js/main.a3390a49.chunk.js",
+    "main.js.map": "/traczs.github.io/static/js/main.a3390a49.chunk.js.map",
     "runtime-main.js": "/traczs.github.io/static/js/runtime-main.f6b83a56.js",
     "runtime-main.js.map": "/traczs.github.io/static/js/runtime-main.f6b83a56.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.8a3750e3.chunk.js": "/traczs.github.io/static/js/2.8a3750e3.chunk.js",
     "static/js/2.8a3750e3.chunk.js.map": "/traczs.github.io/static/js/2.8a3750e3.chunk.js.map",
     "index.html": "/traczs.github.io/index.html",
-    "precache-manifest.3cf38493f421d1f6e093f060651b0c8e.js": "/traczs.github.io/precache-manifest.3cf38493f421d1f6e093f060651b0c8e.js",
+    "precache-manifest.144d2289a5cbc747166d215b94813423.js": "/traczs.github.io/precache-manifest.144d2289a5cbc747166d215b94813423.js",
     "service-worker.js": "/traczs.github.io/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.0643ec6a.chunk.css.map": "/traczs.github.io/static/css/main.0643ec6a.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.8a3750e3.chunk.js",
     "static/css/main.0643ec6a.chunk.css",
-    "static/js/main.efdda2ea.chunk.js"
+    "static/js/main.a3390a49.chunk.js"
   ]
 }
