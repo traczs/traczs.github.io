@@ -36,7 +36,7 @@ class App extends React.Component {
         title: 'About Me'
       },
       contact: {
-        title: 'Previous Work Experience'
+        title: 'Previous Jobs'
       }
     }
   }
