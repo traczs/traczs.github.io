@@ -45,8 +45,7 @@ function PastJobs(props) {
                         <p>This co-op taught me how to work effectively between multiple teams and companies.</p>
                         <p>I had the opportunity to develop my Azure skills from Microsoft professionals whom I worked side by side with on at least a weekly basis.</p>
                         <p>Rogers also offered many different workshops related to cloud computing such as Ansible, Kubernetes, and OpenShift classes. I was lucky enough to get the permission to attend any workshop that I wanted to go to.</p>
-                        <p>I was able to work alongside a Global Azure Expert to create a monitor for all the Azure VMs that Rogers was running so that they would be able to receive some metrics and adjust resources based on the information given.
-                        </p>
+                        <p>I was able to work alongside a Global Azure Expert to create a monitor for all the Azure VMs that Rogers was running so that they would be able to receive some metrics and adjust resources based on the information given.</p>
                     </div>
                 </div>
             </Parallax>
