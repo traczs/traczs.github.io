@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   BrowserRouter as Router,
-  Switch,
+  //Switch,
   Route,
   Link
 } from "react-router-dom";
@@ -15,6 +15,7 @@ import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import PastJobs from './pages/PastJobs';
+import ConvertPlaylist from './pages/ConvertPlaylist';
 
 class App extends React.Component {
   
@@ -25,7 +26,8 @@ class App extends React.Component {
       headerLinks: [
         {title:'Home', path: '/'},
         {title:'About', path: '/about'},
-        {title:'Contact', path: '/work'}
+        {title:'Past Jobs', path: '/work'},
+        {title:'Playlist Converter', path: '/convert'}
       ],
       home: {
         title: 'Hard working',
@@ -37,6 +39,11 @@ class App extends React.Component {
       },
       contact: {
         title: 'Previous Jobs'
+      },
+      convert: {
+        title: 'Playlist Converter',
+        subTitle: 'Minimal Viable Product',
+        text: "Currently from Spotify to Youtube only"
       }
     }
   }
@@ -53,6 +60,7 @@ class App extends React.Component {
                 <Link className="nav-link" to="/">Home</Link>
                 <Link className="nav-link" to="about">About</Link>
                 <Link className="nav-link" to="work">Past Jobs</Link>
+                <Link className="nav-link" to="convert">Playlist Converter</Link>
               </Nav>
             </NavbarCollapse>
           </Navbar>
@@ -60,6 +68,7 @@ class App extends React.Component {
           <Route path="/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
           <Route path="/about" render={() => <AboutPage title={this.state.about.title} />} />
           <Route path="/work" render={() => <PastJobs title={this.state.contact.title} />} />
+          <Route path="/convert" render={() => <ConvertPlaylist title={this.state.convert.title} subTitle={this.state.convert.subTitle} text={this.state.convert.text} />} />
 
           <Footer></Footer>
 
