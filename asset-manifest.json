@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/traczs.github.io/static/css/main.0643ec6a.chunk.css",
-    "main.js": "/traczs.github.io/static/js/main.a3390a49.chunk.js",
-    "main.js.map": "/traczs.github.io/static/js/main.a3390a49.chunk.js.map",
+    "main.css": "/traczs.github.io/static/css/main.bed3f90c.chunk.css",
+    "main.js": "/traczs.github.io/static/js/main.6514be18.chunk.js",
+    "main.js.map": "/traczs.github.io/static/js/main.6514be18.chunk.js.map",
     "runtime-main.js": "/traczs.github.io/static/js/runtime-main.f6b83a56.js",
     "runtime-main.js.map": "/traczs.github.io/static/js/runtime-main.f6b83a56.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.8a3750e3.chunk.js": "/traczs.github.io/static/js/2.8a3750e3.chunk.js",
-    "static/js/2.8a3750e3.chunk.js.map": "/traczs.github.io/static/js/2.8a3750e3.chunk.js.map",
+    "static/js/2.d30b7f9f.chunk.js": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js",
+    "static/js/2.d30b7f9f.chunk.js.map": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js.map",
     "index.html": "/traczs.github.io/index.html",
-    "precache-manifest.741b6684a8b77e79d2b60f7df3b795e6.js": "/traczs.github.io/precache-manifest.741b6684a8b77e79d2b60f7df3b795e6.js",
+    "precache-manifest.6872d6f00bcb8889eef5e561d2a2e605.js": "/traczs.github.io/precache-manifest.6872d6f00bcb8889eef5e561d2a2e605.js",
     "service-worker.js": "/traczs.github.io/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.0643ec6a.chunk.css.map": "/traczs.github.io/static/css/main.0643ec6a.chunk.css.map",
-    "static/js/2.8a3750e3.chunk.js.LICENSE.txt": "/traczs.github.io/static/js/2.8a3750e3.chunk.js.LICENSE.txt",
+    "static/css/main.bed3f90c.chunk.css.map": "/traczs.github.io/static/css/main.bed3f90c.chunk.css.map",
+    "static/js/2.d30b7f9f.chunk.js.LICENSE.txt": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js.LICENSE.txt",
     "static/media/camis.jpeg": "/traczs.github.io/static/media/camis.4d918c26.jpeg",
     "static/media/cloud.png": "/traczs.github.io/static/media/cloud.fdce6b02.png",
     "static/media/linkedin.png": "/traczs.github.io/static/media/linkedin.e8f1bcaf.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.f6b83a56.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.8a3750e3.chunk.js",
-    "static/css/main.0643ec6a.chunk.css",
-    "static/js/main.a3390a49.chunk.js"
+    "static/js/2.d30b7f9f.chunk.js",
+    "static/css/main.bed3f90c.chunk.css",
+    "static/js/main.6514be18.chunk.js"
   ]
 }
