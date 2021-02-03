@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f51c110655140b87cfd61e9d2921b6c",
+    "revision": "9e879a2a3e8e35a2b349ea7834b57387",
     "url": "/traczs.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "88924918e4786944847c",
-    "url": "/traczs.github.io/static/css/main.bed3f90c.chunk.css"
+    "revision": "db2fdd221c3b3f4172dd",
+    "url": "/traczs.github.io/static/css/main.265fbb95.chunk.css"
   },
   {
     "revision": "6bd478c1400add0782ba",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88924918e4786944847c",
+    "revision": "db2fdd221c3b3f4172dd",
     "url": "/traczs.github.io/static/js/main.1eb04dff.chunk.js"
   },
   {
