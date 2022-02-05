@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/traczs.github.io/static/css/main.265fbb95.chunk.css",
-    "main.js": "/traczs.github.io/static/js/main.20b7995d.chunk.js",
-    "main.js.map": "/traczs.github.io/static/js/main.20b7995d.chunk.js.map",
+    "main.js": "/traczs.github.io/static/js/main.6514be18.chunk.js",
+    "main.js.map": "/traczs.github.io/static/js/main.6514be18.chunk.js.map",
     "runtime-main.js": "/traczs.github.io/static/js/runtime-main.f6b83a56.js",
     "runtime-main.js.map": "/traczs.github.io/static/js/runtime-main.f6b83a56.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.737605b9.chunk.js": "/traczs.github.io/static/js/2.737605b9.chunk.js",
-    "static/js/2.737605b9.chunk.js.map": "/traczs.github.io/static/js/2.737605b9.chunk.js.map",
+    "static/js/2.d30b7f9f.chunk.js": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js",
+    "static/js/2.d30b7f9f.chunk.js.map": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js.map",
     "index.html": "/traczs.github.io/index.html",
-    "precache-manifest.371a1cb9d8d69480981d0e9129fae499.js": "/traczs.github.io/precache-manifest.371a1cb9d8d69480981d0e9129fae499.js",
+    "precache-manifest.f4b06ea01be4a89c7fc87b33e30ad7b1.js": "/traczs.github.io/precache-manifest.f4b06ea01be4a89c7fc87b33e30ad7b1.js",
     "service-worker.js": "/traczs.github.io/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/traczs.github.io/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.265fbb95.chunk.css.map": "/traczs.github.io/static/css/main.265fbb95.chunk.css.map",
-    "static/js/2.737605b9.chunk.js.LICENSE.txt": "/traczs.github.io/static/js/2.737605b9.chunk.js.LICENSE.txt",
+    "static/js/2.d30b7f9f.chunk.js.LICENSE.txt": "/traczs.github.io/static/js/2.d30b7f9f.chunk.js.LICENSE.txt",
     "static/media/camis.jpeg": "/traczs.github.io/static/media/camis.4d918c26.jpeg",
     "static/media/cloud.png": "/traczs.github.io/static/media/cloud.fdce6b02.png",
     "static/media/linkedin.png": "/traczs.github.io/static/media/linkedin.e8f1bcaf.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.f6b83a56.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.737605b9.chunk.js",
+    "static/js/2.d30b7f9f.chunk.js",
     "static/css/main.265fbb95.chunk.css",
-    "static/js/main.20b7995d.chunk.js"
+    "static/js/main.6514be18.chunk.js"
   ]
 }
