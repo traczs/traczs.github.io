@@ -10,6 +10,7 @@ import './App.css';
 import { Container, Navbar, NavbarBrand, Nav } from 'react-bootstrap';
 import NavbarToggle from 'react-bootstrap/esm/NavbarToggle';
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
+import Dropdown from 'react-bootstrap/Dropdown'
 
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
@@ -60,7 +61,16 @@ class App extends React.Component {
                 <Link className="nav-link" to="/">Home</Link>
                 <Link className="nav-link" to="about">About</Link>
                 <Link className="nav-link" to="work">Past Jobs</Link>
-                <Link className="nav-link" to="convert">Playlist Converter</Link>
+                <Dropdown>
+                  <Dropdown.Toggle>
+                    Projects
+                  </Dropdown.Toggle>
+
+                  <Dropdown.Menu>
+                    <Link className="nav-link" to="convert">Playlist Converter</Link>
+                  </Dropdown.Menu>
+                </Dropdown>
+                
               </Nav>
             </NavbarCollapse>
           </Navbar>

@@ -104,8 +104,9 @@ class MakeYTPlaylist extends React.Component {
 
         var videoIDArray = [];
 
+        var searchString = "";
         for(var item of this.state.items){  
-            var searchString = "";
+            searchString = "";
             searchString = item.track.name;
             
             item.track.artists.forEach(name => {
