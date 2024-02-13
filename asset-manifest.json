@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/traczs.github.io/static/css/main.cde99bac.css",
-    "main.js": "/traczs.github.io/static/js/main.9071077c.js",
+    "main.js": "/traczs.github.io/static/js/main.4f283ae0.js",
     "static/media/linkedin.png": "/traczs.github.io/static/media/linkedin.3c9ea4e23874465548a1.png",
     "index.html": "/traczs.github.io/index.html"
   },
   "entrypoints": [
     "static/css/main.cde99bac.css",
-    "static/js/main.9071077c.js"
+    "static/js/main.4f283ae0.js"
   ]
 }
