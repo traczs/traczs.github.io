@@ -9,21 +9,22 @@ const meta = {
 const introdata = {
     title: "Hi, I'm Samuel. I work on:",
     animated: [
-        "Programming",
+        "Cybersecurity",
+        "Cyber Threat Intelligence",
         "DevOps",
         "Testing",
         "Cloud Technologies",
         "Software Engineering",
-        "Full-Stack",
+        "Full-Stack Development",
     ],
-    description: "I turn coffee into code, and sometimes it even works!",
+    description: "Always Learning, Always Building",
     your_img_url: profileImg,
 };
 
 const dataabout = {
     title: "Who am I?",
     aboutme:
-        "I am a University of Guelph graduate who studied Computer Science. I am passionate about learning new technologies and like to dip my toes in all areas of software engineering. I like to spend my free time with friends and outdoors. This page has been made to practice and showcase my reactjs",
+        "Currently advancing my expertise with a Master's in Cybersecurity and Threat Intelligence at the University of Guelph, building on a solid foundation from my Computer Science undergrad. I'm driven by a passion for the ever-evolving tech landscape and enjoy gaining experience across diverse domains of software engineering. Outside of academics, I recharge by connecting with friends and spending time outdoors.",
 };
 const worktimeline = [
     {
@@ -49,6 +50,34 @@ const worktimeline = [
 ];
 
 const skills = [
+    {
+        name: "Malware Development",
+    },
+
+    {
+        name: "Malware Analysis",
+    },
+
+    {
+        name: "Vulnerability Scanning",
+    },
+
+    {
+        name: "Attack Vectors",
+    },
+
+    {
+        name: "Privacy",
+    },
+
+    {
+        name: "Machine Learning",
+    },
+
+    {
+        name: "Artificial Intelligence",
+    },
+
     {
         name: "Python",
     },
@@ -78,34 +107,95 @@ const skills = [
     },
 
     {
-        name: "Azure / GCE / AWS",
+        name: "Azure / GCP / AWS cloud environments",
     },
 ];
 
 const dataportfolio = [
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Machine Learning food predictor",
-        id: "foodPredict",
+        img: "https://picsum.photos/seed/0/400/300?grayscale",
+        description: "ML-Based APT Group Classification Using Opcode Analysis",
+        id: "",
+        modalContent: {
+            type: "markdown",
+            src: "opcodes.md", //loaded from public/markdown/
+            title: "APT Group Opcode Classification",
+        },
+        externalLink:
+            "https://github.com/ColdenLeng/MCTI_6530_Group_Assignment",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://picsum.photos/seed/1/400/400?grayscale",
+        description:
+            "An Examination of Public Knowledge and Perceptions Regarding Privacy",
+        modalContent: {
+            type: "pdf",
+            src: "privacy_survey.pdf", //loaded from public/pdf/
+            title: "Privacy Survey",
+        },
+        id: "",
+    },
+    {
+        img: "https://picsum.photos/seed/2/400/350?grayscale",
+        description:
+            "Comaprative Analysis on Deepfake detection tools and their respective papers",
+        modalContent: {
+            type: "pdf",
+            src: "deepfake_forensics.pdf", //loaded from public/pdf/
+            title: "Deepfake Detection Tool Comparison",
+        },
+        id: "",
+    },
+    {
+        img: "https://picsum.photos/seed/2/400/350?grayscale",
+        description: "Simple Malware",
+        modalContent: {
+            type: "pdf",
+            src: "simple_malware.pdf", //loaded from public/pdf/
+            title: "Simple Malware",
+        },
+        id: "",
+    },
+
+    // {
+    //     img: "https://picsum.photos/seed/3/350/400?grayscale",
+    //     description: "Machine Learning food predictor",
+    //     modalContent: {
+    //         type: "component",
+    //         componentName: "FoodPredict",
+    //         title: "Machine Learning Food Predictor In-Depth",
+    //     },
+    //     id: "foodPredict",
+    // },
+    {
+        img: "https://picsum.photos/seed/4/400/500?grayscale",
         description: "The Wiki Game - written in Clojure",
-        link: "https://github.com/traczs/Clojure-Wiki-Game",
+        modalContent: {
+            type: "markdown",
+            src: "clojure-wiki-game.md", // loaded from public/markdown/clojure-wiki-game.md
+            title: "About the Clojure Wiki Game",
+        },
+        externalLink: "https://github.com/traczs/Clojure-Wiki-Game",
     },
     {
-        img: "https://picsum.photos/400/400/?grayscale",
-        description: "DevOps scripts for vm creation",
-        link: "https://github.com/traczs/cloud-vms",
+        img: "https://picsum.photos/seed/5/400/400?grayscale",
+        description: "DevOps scripts for VM creation",
+        modalContent: {
+            type: "markdown",
+            src: "devops.md",
+            title: "DevOps VM Scripts",
+        },
+        externalLink: "https://github.com/traczs/cloud-vms",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://picsum.photos/seed/6/400/600?grayscale",
         description: "Some discrete math written in C",
-        link: "https://github.com/traczs/discrete-math-theory",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Transfer your Spotify playlist to YouTube [deprecated]",
+        modalContent: {
+            type: "markdown",
+            src: "discrete_math.md",
+            title: "Discrete Math in C - View on GitHub",
+        },
+        externalLink: "https://github.com/traczs/discrete-math-theory",
     },
 ];
 
