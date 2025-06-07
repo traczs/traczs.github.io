@@ -148,7 +148,7 @@ const dataportfolio = [
     },
     {
         img: "https://picsum.photos/seed/2/400/350?grayscale",
-        description: "Simple Malware",
+        description: "Simple Malware Writeup",
         modalContent: {
             type: "pdf",
             src: "simple_malware.pdf", //loaded from public/pdf/
@@ -196,6 +196,35 @@ const dataportfolio = [
             title: "Discrete Math in C - View on GitHub",
         },
         externalLink: "https://github.com/traczs/discrete-math-theory",
+    },
+    {
+        img: "https://picsum.photos/seed/7/400/350?grayscale",
+        description: "Writeup for CTF challenge 'collision' on pwnable.kr",
+        modalContent: {
+            type: "pdf",
+            src: "ctf_collision.pdf", //loaded from public/pdf/
+            title: "Hash Collision CTF Writeup",
+        },
+    },
+    {
+        img: "https://picsum.photos/seed/8/400/450?grayscale",
+        description:
+            "Writeup for crackme challenge 'Simple Crackme' on crackmes.one",
+        modalContent: {
+            type: "pdf",
+            src: "crackme_simple_crackme.pdf", //loaded from public/pdf/
+            title: "Simple Crackme Writeup",
+        },
+    },
+    {
+        img: "https://picsum.photos/seed/8/400/450?grayscale",
+        description:
+            "Writeup for crackme challenge 'without fantasy' on crackmes.one",
+        modalContent: {
+            type: "pdf",
+            src: "crackme_without_fantasy.pdf", //loaded from public/pdf/
+            title: "Without Fantasy Crackme Writeup",
+        },
     },
 ];
 
