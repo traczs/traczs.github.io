@@ -226,6 +226,25 @@ const dataportfolio = [
             title: "Without Fantasy Crackme Writeup",
         },
     },
+    {
+        img: "https://picsum.photos/seed/9/400/450?grayscale",
+        description: "Writeup for TryHackMe CTF 'Industrial Intrustion'",
+        modalContent: {
+            type: "pdf",
+            src: "THM_Industrial_Intrusion_CTF.pdf", //loaded from public/pdf/
+            title: "THM 'Industrial Intrusion' CTF",
+        },
+    },
+    {
+        img: "https://picsum.photos/seed/10/400/450?grayscale",
+        description:
+            "Writeup for crackme challenge 'SecureSoftware v1.5' on crackmes.one",
+        modalContent: {
+            type: "pdf",
+            src: "SecureSoftware_v1_5.pdf", //loaded from public/pdf/
+            title: "Cracking SecureSoftwarev1.5",
+        },
+    },
 ];
 
 const contactConfig = {
